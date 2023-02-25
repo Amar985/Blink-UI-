@@ -1,7 +1,7 @@
 # Blink-UI-
 
 Users starting a new business generally find it very hard to find a web
-development service that is right for their business, Webmarkia aims to solve
+development service that is right for their business, Blink aims to solve
 this problem.
 
 ![image](https://github.com/Amar985/Blink-UI-/blob/main/preview.jpg)
